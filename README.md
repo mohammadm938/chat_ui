@@ -1,2 +1,2 @@
 # chat_ui
-this is ui chat Web Application it have just one page and it's not responseve!!
+this is of ui chat Web Application it have just one page and it's not responseve!!
